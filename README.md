@@ -51,3 +51,16 @@
   <li><strong>Handling user input.</li>
   <li><strong>Following proper coding practices for readability and maintainability.</li>
 </ul>
+
+---
+
+<h2 style="color: darkgreen; font-family: Verdana, sans-serif;">TASK 2 (Level-2)</h2>
+
+<h3 style="font-size: 18px; color: #e63946;">Key Features and Requirements:</h3>
+
+<ul style="font-family: Arial, sans-serif; font-size: 16px;">
+  <li><strong>Proper use of variables for inputs and outputs.</li>
+  <li><strong>Correct implementation of mathematical formulas and operations.</li>
+  <li><strong>Meaningful and descriptive output statements.</li>
+  <li><strong>Clear, consistent indentation and formatting.</li>
+ </ul>
