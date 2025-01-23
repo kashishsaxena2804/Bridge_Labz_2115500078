@@ -39,3 +39,15 @@
 </ul>
 
 ---
+
+<h2 style="color: darkgreen; font-family: Verdana, sans-serif;">TASK 2 (Level-1)</h2>
+
+<h3 style="font-size: 18px; color: #e63946;">Skills Developed</h3>
+
+<ul style="font-family: Arial, sans-serif; font-size: 16px;">
+  <li><strong>Understanding basic C# syntax.</li>
+  <li><strong>Using variables effectively.</li>
+  <li><strong>Implementing arithmetic operations and conversions.</li>
+  <li><strong>Handling user input.</li>
+  <li><strong>Following proper coding practices for readability and maintainability.</li>
+</ul>
