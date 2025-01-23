@@ -20,7 +20,7 @@ class ArmstrongNumberChecker
             originalNumber /= 10;
         }
 
-        // Check if the sum equals the original number
+        // Check if the sum equals the original number.
         if (sum == number)
         {
             Console.WriteLine($"{number} is an Armstrong number.");
