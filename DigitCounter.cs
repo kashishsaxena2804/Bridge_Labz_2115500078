@@ -18,7 +18,7 @@ class DigitCounter
             count++;
         }
 
-        // Print the result
+        // Print the result.
         Console.WriteLine($"The number of digits is: {count}");
     }
 }
