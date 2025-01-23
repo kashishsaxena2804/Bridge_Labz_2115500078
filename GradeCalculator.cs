@@ -40,7 +40,7 @@ class GradeCalculator {
             remarks = "Remedial standards";
         }
 
-        // Display results
+        // Display grades
         Console.WriteLine("\n----- Result -----");
         Console.WriteLine($"Total Marks: {totalMarks}");
         Console.WriteLine($"Percentage: {percentage:F2}%");
