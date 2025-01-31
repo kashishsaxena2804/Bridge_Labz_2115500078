@@ -154,3 +154,18 @@
 </ul>
 
 ---
+
+<h2 style="color: darkgreen; font-family: Verdana, sans-serif;">TASK 8</h2>
+
+<h3 style="font-size: 18px; color: #e63946;">Procedural vs Object-Oriented Programming & Class & Object in C#:</h3>
+
+<ul style="font-family: Arial, sans-serif; font-size: 16px;">
+  <li><strong>1. Procedural Programming → Focuses on functions and procedures (e.g., C, Pascal).</li>
+  <li><strong>2. Object-Oriented Programming (OOP) → Organizes code into objects and classes (e.g., C#, Java).</li>
+  <li><strong>3. Class → Blueprint for creating objects (class Car { public string model; }).</li>
+  <li><strong>4. Object → Instance of a class (Car myCar = new Car();).</li>
+  <li><strong>5. Encapsulation → Keep data safe with private fields and public methods.</li>
+  <li><strong>6. Reusability → OOP promotes code reuse via inheritance & polymorphism.</li>
+</ul>
+
+---
