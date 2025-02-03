@@ -175,11 +175,11 @@
 <h3 style="font-size: 18px; color: #e63946;">Submission of C# Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice :</h3>
 
 <ul style="font-family: Arial, sans-serif; font-size: 16px;">
-  <li><strong>1. Constructors: Used default, parameterized, and copy constructors with best practices like constructor chaining and encapsulation.</li>
-  <li><strong>2. Access Modifiers: Applied private, protected, and public to ensure data security and controlled access.</li>
-  <li><strong>3. Instance vs. Class Members: Differentiated between object-specific attributes and shared class variables/methods.</li>
-  <li><strong>4. Encapsulation & OOP Principles: Managed data access using getters/setters and protected attributes in real-world scenarios.</li>
-  <li><strong>5. Practical Applications: Implemented concepts in book library, bank accounts, employee records, and vehicle registration systems.</li>
+  <li><strong>1. Constructors → Used default, parameterized, and copy constructors with best practices like constructor chaining and encapsulation.</li>
+  <li><strong>2. Access Modifiers → Applied private, protected, and public to ensure data security and controlled access.</li>
+  <li><strong>3. Instance vs. Class Members → Differentiated between object-specific attributes and shared class variables/methods.</li>
+  <li><strong>4. Encapsulation & OOP Principles → Managed data access using getters/setters and protected attributes in real-world scenarios.</li>
+  <li><strong>5. Practical Applications → Implemented concepts in book library, bank accounts, employee records, and vehicle registration systems.</li>
 </ul>
 
 
