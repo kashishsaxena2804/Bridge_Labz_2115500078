@@ -184,3 +184,16 @@
 
 
 ---
+<h2 style="color: darkgreen; font-family: Verdana, sans-serif;">TASK 10</h2>
+
+<h3 style="font-size: 18px; color: #e63946;">Submission of this, sealed, static key words and is operator Content Level 1 Lab Practice  :</h3>
+
+<ul style="font-family: Arial, sans-serif; font-size: 16px;">
+  <li><strong>1. static Members → Shared variables and methods across all instances of a class to optimize memory usage.</li>
+  <li><strong>2. this Keyword → Used to resolve ambiguity in constructors when assigning instance variables.</li>
+  <li><strong>3. readonly Variables → Ensures certain fields remain constant after initialization, enhancing data integrity.</li>
+  <li><strong>4. is Operator → Safely checks the type of an object before performing operations to prevent runtime errors.</li>
+</ul>
+
+
+---
