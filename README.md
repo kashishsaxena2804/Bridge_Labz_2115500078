@@ -221,7 +221,7 @@
   <li><strong>2. Assisted Problems → Implement inheritance in Animal, Employee, and Vehicle systems.</li>
   <li><strong>3. Types of Inheritance → Single, Multilevel, Hierarchical, and Hybrid (using interfaces).</li>
   <li><strong>4. Best Practices → Follow LSP, avoid deep hierarchies, use abstract classes/interfaces.</li>
-  <li><strong>Goal: Master inheritance, polymorphism, and method overriding in C#. <li>
+  <li><strong>Goal: Master inheritance, polymorphism, and method overriding in C#. </li>
 </ul>
 
 
