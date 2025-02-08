@@ -207,21 +207,21 @@
   <li><strong>2. Object Diagram → Shows real-time object instances and their relationships.</li>
   <li><strong>3. Sequence Diagram → Illustrates object interactions over time with method calls.</li>
   <li><strong>4. Class Comments → Adds explanations in code for clarity and maintainability.</li>
-  <li><strong>Objective: Apply OOD principles, visualize design with UML, and improve code documentation. ✅</li>
+  <li><strong>Objective: Apply OOD principles, visualize design with UML, and improve code documentation.</li>
 </ul>
 
 
 ---
 <h2 style="color: darkgreen; font-family: Verdana, sans-serif;">TASK 12</h2>
 
-<h3 style="font-size: 18px; color: #e63946;">Submission of Object Oriented Design Principles :</h3>
+<h3 style="font-size: 18px; color: #e63946;">Submission of Inheritance :</h3>
 
 <ul style="font-family: Arial, sans-serif; font-size: 16px;">
-  <li><strong>1. Learn Inheritance – Understand how subclasses inherit properties/methods.</li>
-  <li><strong>2. Assisted Problems – Implement inheritance in Animal, Employee, and Vehicle systems.</li>
-  <li><strong>3. Types of Inheritance – Single, Multilevel, Hierarchical, and Hybrid (using interfaces).</li>
-  <li><strong>4. Best Practices – Follow LSP, avoid deep hierarchies, use abstract classes/interfaces.</li>
-  <li><strong>Goal: Master inheritance, polymorphism, and method overriding in C#. 🚀</li>
+  <li><strong>1. Learn Inheritance → Understand how subclasses inherit properties/methods.</li>
+  <li><strong>2. Assisted Problems → Implement inheritance in Animal, Employee, and Vehicle systems.</li>
+  <li><strong>3. Types of Inheritance → Single, Multilevel, Hierarchical, and Hybrid (using interfaces).</li>
+  <li><strong>4. Best Practices → Follow LSP, avoid deep hierarchies, use abstract classes/interfaces.</li>
+  <li><strong>Goal: Master inheritance, polymorphism, and method overriding in C#.li>
 </ul>
 
 
