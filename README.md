@@ -226,3 +226,34 @@
 
 
 ---
+
+<h2 style="color: darkgreen; font-family: Verdana, sans-serif;">TASK 13</h2>
+
+<h3 style="font-size: 18px; color: #e63946;">Submission of Encapsulation, Polymorphism, Interface and Abstract Class :</h3>
+
+<ul style="font-family: Arial, sans-serif; font-size: 16px;">
+  <li><strong>1. Encapsulation → Controlled data access using getters, setters, and access modifiers.</li>
+  <li><strong>2. Polymorphism → Method overloading and overriding for flexible functionality.</li>
+  <li><strong>3. Interfaces → Defining contracts for multiple implementations.</li>
+  <li><strong>4. Abstract Classes → Enforcing shared behavior in derived classes.</li>
+  <li><strong>5. OOP Design → Applying inheritance, code reusability, and real-world modeling.</li>
+  <li><strong>6. Best Practices → Proper naming, modular code, and exception handling.</li>
+</ul>
+
+---
+
+<h2 style="color: darkgreen; font-family: Verdana, sans-serif;">TASK 14</h2>
+
+<h3 style="font-size: 18px; color: #e63946;">Submission of Data Structure - LinkedList :</h3>
+
+<ul style="font-family: Arial, sans-serif; font-size: 16px;">
+  <li><strong>1. Understanding Linked Lists → Implementing singly, doubly, and circular linked lists for different applications.</li>
+  <li><strong>2. Efficient Data Handling → Managing head, tail, and node pointers to optimize insertion, deletion, and searching.</li>
+  <li><strong>3. Memory Management → Preventing memory leaks and handling pointer updates effectively.</li>
+  <li><strong>4. Boundary Case Handling → Ensuring correct operations at the beginning, middle, and end of the list.</li>
+  <li><strong>5. Circular List Navigation → Avoiding infinite loops and properly iterating through circular structures.</li>
+  <li><strong>6. Real-World Applications → Applying linked lists in scheduling, inventory management, undo/redo functionality, and more.</li>
+  <li><strong>7. Modular Code Development → Writing reusable and well-structured functions for linked list operations.</li>
+</ul>
+
+---
